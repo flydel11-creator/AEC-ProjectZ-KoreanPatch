@@ -71,6 +71,7 @@
 | 99-KoreanPatch | 한글패치 v1.5 |
 | BeyondStorage3 | 상자 연동 3.2.6 |
 | 20-DucksflyBackpack | 가방 98칸 → 140칸 |
+| 21-DucksflyFixes | 보급 투하 보상 상자 미생성 버그 수정 |
 
 압축 안의 `설치방법.txt` 를 그대로 따라 하면 됩니다. EAC 를 끄고 실행해야 합니다.
 
