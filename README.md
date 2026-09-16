@@ -72,6 +72,7 @@
 | BeyondStorage3 | 상자 연동 3.2.6 |
 | 20-DucksflyBackpack | 가방 98칸 → 140칸 |
 | 21-DucksflyFixes | 보급 투하 보상 상자 미생성 버그 수정 |
+| DucksflyTweaks | 서버 조정값 (특전 설명, 회복 배율 등) |
 
 압축 안의 `설치방법.txt` 를 그대로 따라 하면 됩니다. EAC 를 끄고 실행해야 합니다.
 
@@ -79,3 +80,11 @@
 
 Beyond Storage 3 는 superguru, gazorper 님의 모드이며 Apache-2.0 라이선스에 따라 원본 그대로 동봉했습니다.
 원본 배포처: <https://www.nexusmods.com/7daystodie/mods/7809> / 후원: <https://ko-fi.com/gazorper>
+
+### 처음 들어오는 사람 / 모드가 꼬였을 때 (통팩)
+
+기존 Mods 폴더를 전부 지우고 이걸로 교체하면 서버와 100% 같은 구성이 됩니다.
+
+**다운로드:** [Ducksfly_FullMods_for_3.2.zip](https://github.com/flydel11-creator/AEC-ProjectZ-KoreanPatch/raw/main/Ducksfly_FullMods_for_3.2.zip) (9MB, 압축 풀면 133MB)
+
+AEC x Project Z 본체까지 전부 들어 있고 한글 설정도 이미 적용된 상태입니다. 압축 안의 `읽어주세요_설치방법.txt` 를 보세요.
