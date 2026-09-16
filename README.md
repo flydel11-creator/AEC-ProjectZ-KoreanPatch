@@ -75,5 +75,7 @@
 
 압축 안의 `설치방법.txt` 를 그대로 따라 하면 됩니다. EAC 를 끄고 실행해야 합니다.
 
+**한 번만 설치하면 그다음부터는 `모드업데이트.bat` 더블클릭으로 최신판이 자동 적용됩니다.** (Mods 폴더 안에 있습니다. 새 버전이 없으면 아무것도 하지 않고 닫힙니다.)
+
 Beyond Storage 3 는 superguru, gazorper 님의 모드이며 Apache-2.0 라이선스에 따라 원본 그대로 동봉했습니다.
 원본 배포처: <https://www.nexusmods.com/7daystodie/mods/7809> / 후원: <https://ko-fi.com/gazorper>
