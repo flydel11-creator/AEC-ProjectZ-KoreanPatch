@@ -57,3 +57,22 @@
   - 번역: 용어집 기반 규칙 번역 + AI 보조 번역 후 수기 검수. 상업적 이용 금지, 자유 재배포 가능(출처 표기).
 
 ```
+
+---
+
+## Ducksfly 서버용 묶음 (우리 서버 접속자 전용)
+
+한글패치 + 상자 연동 + 가방 확장을 한 번에 넣는 압축입니다. **공개 한글패치만 필요하면 위 링크를 받으세요.**
+
+**다운로드:** [Ducksfly_ServerPack_v1_for_3.2.zip](https://github.com/flydel11-creator/AEC-ProjectZ-KoreanPatch/raw/main/Ducksfly_ServerPack_v1_for_3.2.zip)
+
+| 포함 | 내용 |
+|---|---|
+| 99-KoreanPatch | 한글패치 v1.5 |
+| BeyondStorage3 | 상자 연동 3.2.6 |
+| 20-DucksflyBackpack | 가방 98칸 → 140칸 |
+
+압축 안의 `설치방법.txt` 를 그대로 따라 하면 됩니다. EAC 를 끄고 실행해야 합니다.
+
+Beyond Storage 3 는 superguru, gazorper 님의 모드이며 Apache-2.0 라이선스에 따라 원본 그대로 동봉했습니다.
+원본 배포처: <https://www.nexusmods.com/7daystodie/mods/7809> / 후원: <https://ko-fi.com/gazorper>
